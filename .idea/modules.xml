@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/StreamPractice.iml" filepath="$PROJECT_DIR$/StreamPractice.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Collections_Practice.iml" filepath="$PROJECT_DIR$/Collections_Practice.iml" />
+>>>>>>> 0bf05809dd71564c089ca3b65c29a2a744ad7931
     </modules>
   </component>
 </project>
